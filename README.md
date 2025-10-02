@@ -15,7 +15,7 @@ Video - https://drive.google.com/file/d/1JH6BV4bslSHWwgAUf4AX5NKnPvmuq5aW/view?u
 - Quick search and filters for easy navigation  
 - Modern Material 3 UI with Jetpack Compose  
 
----
+---  
 
 ## 🛠 Tech Stack
 - **Kotlin** – Core language  
@@ -29,4 +29,4 @@ Video - https://drive.google.com/file/d/1JH6BV4bslSHWwgAUf4AX5NKnPvmuq5aW/view?u
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-task-manager.git
+git clone https://github.com/Giridhardiyu/Personal-task-manager.git
